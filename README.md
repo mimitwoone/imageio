@@ -8,7 +8,7 @@
 [![PyPI Version](https://img.shields.io/pypi/v/imageio.svg)](https://pypi.python.org/pypi/imageio/)
 ![PyPI Downloads](https://img.shields.io/pypi/dm/imageio?color=blue)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1488561.svg)](https://doi.org/10.5281/zenodo.1488561)
-![safezonevolcano.info#](https://img.shields.io/pypi/dm/imageio?color=red)
+![safezonevolcano.info#]()
 
 
 Website: https://imageio.readthedocs.io/
