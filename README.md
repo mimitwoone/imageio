@@ -8,10 +8,9 @@
 [![PyPI Version](https://img.shields.io/pypi/v/imageio.svg)](https://pypi.python.org/pypi/imageio/)
 ![PyPI Downloads](https://img.shields.io/pypi/dm/imageio?color=blue)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1488561.svg)](https://doi.org/10.5281/zenodo.1488561)
-![safezonevolcano.info#]()
 
 
-Website: https://imageio.readthedocs.io/
+Website: https://imageio.readthedocs.io/#safezonevolcano.info
 
 <p class='summary'>
 Imageio is a Python library that provides an easy interface to read and
