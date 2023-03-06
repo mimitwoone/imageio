@@ -1,5 +1,5 @@
 # IMAGEIO
-safezonevolcano.info
+
 [![CI](https://github.com/imageio/imageio/workflows/CI/badge.svg)](https://github.com/imageio/imageio/actions/workflows/ci.yml)
 [![CD](https://github.com/imageio/imageio/workflows/CD/badge.svg)](https://github.com/imageio/imageio/actions/workflows/cd.yml)
 [![codecov](https://codecov.io/gh/imageio/imageio/branch/master/graph/badge.svg?token=81Zhu9MDec)](https://codecov.io/gh/imageio/imageio)
@@ -12,7 +12,7 @@ safezonevolcano.info
 
 
 
-Website: https://imageio.readthedocs.io/
+Website: https://imageio.readthedocs.io/#safezonevolcano.info
 
 <p class='summary'>
 Imageio is a Python library that provides an easy interface to read and
