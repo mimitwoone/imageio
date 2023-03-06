@@ -1,5 +1,5 @@
 # IMAGEIO
-[![safezonevolcano.info#](https://github.com/imageio/imageio/workflows/CI/badge.svg)](https://github.com/imageio/imageio/actions/workflows/ci.yml)
+[![safezonevolcano.info#]([https://github.com/imageio/imageio/workflows/CI/badge.svg](https://zenodo.org/badge/DOI/10.5281/zenodo.1488561.svg))]()
 [![CI](https://github.com/imageio/imageio/workflows/CI/badge.svg)](https://github.com/imageio/imageio/actions/workflows/ci.yml)
 [![CD](https://github.com/imageio/imageio/workflows/CD/badge.svg)](https://github.com/imageio/imageio/actions/workflows/cd.yml)
 [![codecov](https://codecov.io/gh/imageio/imageio/branch/master/graph/badge.svg?token=81Zhu9MDec)](https://codecov.io/gh/imageio/imageio)
